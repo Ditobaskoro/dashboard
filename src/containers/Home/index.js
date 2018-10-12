@@ -15,7 +15,7 @@ const Home = () => (
         id="inputName"
         value={name}
         onChange={onType}
-        maxlength="50"/>
+        maxLength="50"/>
         <p className="textCounter">{count}/50</p>
       </div>
     </div>}
