@@ -1,0 +1,20 @@
+.title2 {
+  color:  #4E55A6;
+  font-size: 40px;
+  margin-bottom: 50px;
+  overflow-wrap: break-word;
+}
+.inputField {
+  width: 300px;
+}
+#inputName {
+  border-width: 0;
+  border-radius: 0;
+  border-bottom: 1px solid black;
+  border-right: 0 !important;
+  box-shadow: none !important;
+  padding: 0;
+}
+.textCounter {
+  float: right;
+}

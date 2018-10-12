@@ -1,0 +1,11 @@
+.header {
+  background-color: #4E55A6;
+}
+.header-title {
+  width: 120px;
+  height: 31px;
+  padding-left: 10px;
+  float: left;
+  align-self: center;
+  color: white;
+}
